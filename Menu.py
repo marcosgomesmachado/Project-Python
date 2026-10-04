@@ -1,0 +1,12 @@
+def CriaMenu():
+    print('    ╔══════════════════════════════════╗')
+    print('    ║       SISTEMA DE GERENCIAMENTO   ║')
+    print('    ╠══════════════════════════════════╣')
+    print('    ║ 1 - Cadastrar pessoa             ║')
+    print('    ║ 2 - Listar pessoas               ║')
+    print('    ║ 3 - Pesquisar pessoa             ║')
+    print('    ║ 4 - Mostrar estatísticas         ║')
+    print('    ║ 5 - Editar lista                 ║')
+    print('    ║ 6 - deletar pessoa               ║')
+    print('    ║ 7 - Sair                         ║')
+    print('    ╚══════════════════════════════════╝')
